@@ -44,3 +44,6 @@ MIT License（改変・再配布可／商用利用可／著作権表示を残す
 
 【制作者】
 Ryoran-ran
+
+【プレイはこちら】
+https://ryoran-ran.github.io/p5-Othello/
